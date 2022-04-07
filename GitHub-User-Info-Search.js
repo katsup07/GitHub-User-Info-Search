@@ -1,4 +1,3 @@
-
         const baseEndpoint = 'https://api.github.com'; //endpoint is the url you need to visit to get data
         const usersEndpoint = `${baseEndpoint}/users`;
 
