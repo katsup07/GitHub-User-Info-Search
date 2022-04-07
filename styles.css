@@ -1,0 +1,33 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    display: flex;
+    color: rgb(255, 69, 125);
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: black;
+}
+
+#username {
+    color: rgba(0, 213, 255, 0.813);
+    border: 3px solid rgba(0, 213, 255, 0.813);
+    background: rgb(0, 0, 0);
+    font-size: 1.3rem;
+}
+
+.user div {
+    border: 3px solid rgba(255, 69, 125, 0.828);
+    color: rgb(0, 0, 0);
+    background: white;
+    margin: 10px;
+    padding: 5px;
+}
