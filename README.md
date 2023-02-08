@@ -1,5 +1,5 @@
 # GitHub-User-Info-Search
-Searches GitHub users and returns account information.
+Searches GitHub users and displays publicly available account information.
 
 ## Try it here:
 https://katsup07.github.io/GitHub-User-Info-Search/
